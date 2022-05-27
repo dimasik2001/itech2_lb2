@@ -1,0 +1,25 @@
+[{
+  "league": "Premier League",
+  "date": "2022-05-10",
+  "teams": ["Avangard","Metalist"],
+  "score": "0-2"
+},
+{
+  "league": "Premier League",
+  "date": "2022-05-11",
+  "teams": ["Barsa","Metalist"],
+  "score": "0-1"
+},
+{
+  "league": "Sky Bet Championship",
+  "date": "2022-03-12",
+  "teams": ["Arsenal","Volin"],
+  "score": "0-2"
+},
+{
+  "league": "Sky Bet Championship",
+  "date": "2022-04-12",
+  "teams": ["Veres","Arsenal"],
+  "score": "1-1"
+}
+]
